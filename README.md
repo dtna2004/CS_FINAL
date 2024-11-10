@@ -1,2 +1,2 @@
-# chuy-n-KHMT
+# Init
 final_project_cdkhmt
